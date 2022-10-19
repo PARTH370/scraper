@@ -1,0 +1,137 @@
+[
+  {
+    "name": "PHPSESSID",
+    "value": "cm1hi5mb3qbm78maipj7j8vtng",
+    "domain": "www.wg-gesucht.de",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "sync_favourites",
+    "value": "false",
+    "domain": "www.wg-gesucht.de",
+    "path": "/",
+    "expires": 1666179274,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "get_favourites",
+    "value": "false",
+    "domain": "www.wg-gesucht.de",
+    "path": "/",
+    "expires": 1666179274,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__cmpcpcx15144",
+    "value": "__1__",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.055668,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpcpc",
+    "value": "__1__",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.056235,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpconsentx15144",
+    "value": "CPhCDeQPhCDeQAfR4BENClCsAP_AAH_AAAYgG7pV9W5WTWFBOHp7arsEKYUX13TNQ2AiCgCAE6AAiHKAYIQGkmAYJASAIAACIBAgIBYBIQFAAEEEAAAAIIARAAFIAAAAIAAIIAIECAEAEkAAAAAIAAAAAAAAAAAEABAAgABAABIAAEAAAIAAAAAAAAgbulX1blZNYUE4entquwQphRfXdM1DYCIKAIAToACIcoBghAaSYBgkBIAgAAIgECAgFgEhAUAAQQQAAAAggBEAAUgAAAAgAAggAgQIAQASQAAAAAgAAAAAAAAAAAQAEACAAEAAEgAAQAAAgAAAAAAACAAA",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.055106,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpcvcx15144",
+    "value": "__s1227_s87_s343_s94_s40_s1052_s64_s335_s914_s762_s640_s102_s405_s1932_s65_s23_s209_s116_s25_s56_s123_s127_s570_s128_s7_s573_s482_s312_s1_s26_s2612_s135_s1409_s905_s139_s161_s1442_s2_s974_s1049_s11_s322_s2386_s885_s879_s36_s1358_s267_s883_s2589_s76_c4566_s1341_s268_s460_s271_c13455_s292_s358_s190_s19_s653_s800_s12_s196_s1216_s52_s199_s525_s32_s882_s739_s60_s21_c5169_s35_s30_s217_s574_s356_U__",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.055396,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpcvc",
+    "value": "__s1227_s87_s343_s94_s40_s1052_s64_s335_s914_s762_s640_s102_s405_s1932_s65_s23_s209_s116_s25_s56_s123_s127_s570_s128_s7_s573_s482_s312_s1_s26_s2612_s135_s1409_s905_s139_s161_s1442_s2_s974_s1049_s11_s322_s2386_s885_s879_s36_s1358_s267_s883_s2589_s76_c4566_s1341_s268_s460_s271_c13455_s292_s358_s190_s19_s653_s800_s12_s196_s1216_s52_s199_s525_s32_s882_s739_s60_s21_c5169_s35_s30_s217_s574_s356_U__",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.055867,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpiab",
+    "value": "_58_272_40_231_147_44_50_790_39_14_93_151_511_264_565_6_410_211_195_259_793_23_728_394_742_63_273_156_12_87_128_185_30_94_620_315_243_285_77_138_591_85_91_541_440_209_397_122_144_126_434_584_402_8_213_141_183_24_312_1_120_78_755_98_61_206_131_365_253_10_278_428_129_252_294_62_325_148_97_109_95_508_486_52_614_142_79_152_358_20_130_812_373_304_241_617_602_69_227_349_385_772_559_164_412_384_140_490_177_236_887_76_81_835_11_71_4_16_506_84_33_111_73_68_82_161_45_115_134_295_104_13_655_165_238_137_136_114_275_42_89_475_132_345_577_382_21_28_36_162_237_284_18_281_32_25_70_173_154_210_301_469_",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.056437,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpiabc",
+    "value": "__1_2_3_4_5_6_7_8_9_10_r1_r2_",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.056557,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpiabli",
+    "value": "_58_272_40_231_147_44_50_790_39_14_93_151_511_264_565_6_410_211_195_259_793_23_728_394_742_63_273_156_12_87_128_185_30_94_620_315_243_285_77_138_591_85_91_541_440_209_397_122_144_126_434_584_402_8_213_141_183_24_312_1_120_78_755_98_61_206_131_365_253_10_278_428_129_252_294_62_325_148_97_109_95_508_486_52_614_142_79_152_358_20_130_812_373_304_241_617_602_69_227_349_385_772_559_164_412_384_140_490_177_236_887_76_81_835_11_71_4_16_506_84_33_111_73_68_82_161_45_115_134_295_104_13_655_165_238_137_136_114_275_42_89_475_132_345_577_382_21_28_36_162_237_284_18_281_32_25_70_173_154_210_301_469_772_",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.056818,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__cmpiabcli",
+    "value": "__2_3_4_5_6_7_8_9_10_",
+    "domain": ".wg-gesucht.de",
+    "path": "/",
+    "expires": 1681644877.056963,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "last_cat",
+    "value": "0%2C1%2C2%2C3",
+    "domain": "www.wg-gesucht.de",
+    "path": "/",
+    "expires": 1681707510.50824,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "last_type",
+    "value": "0",
+    "domain": "www.wg-gesucht.de",
+    "path": "/",
+    "expires": 1681707510.508273,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "last_city",
+    "value": "90",
+    "domain": "www.wg-gesucht.de",
+    "path": "/",
+    "expires": 1681707510.504385,
+    "httpOnly": false,
+    "secure": false
+  }
+]
